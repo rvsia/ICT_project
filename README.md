@@ -3,5 +3,5 @@ IS/ICT term project
 
 # Authors
 
-Tomáš Voráč
-Richard Všianský
+* Tomáš Voráč
+* Richard Všianský
